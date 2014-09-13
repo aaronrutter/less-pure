@@ -4,7 +4,7 @@ less-pure
  
  A drawback of the purcss framework is the requirement to embed classes into your HTML. 
  This is an attempt to make it easier to change between different CSS frameworks.
- The philosophy of this project is a minimal deliviarable product 
+ The philosophy of this project is a minimal viable product 
  
 The Future
 ----------
